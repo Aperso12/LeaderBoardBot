@@ -1,0 +1,5 @@
+*.env
+discord.log
+*.code-workspace
+venv
+__pycache__
